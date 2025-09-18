@@ -1,39 +1,52 @@
 # 👋 Hola, soy Hulkdev
 
-Soy un apasionado **Developer de páginas web** y también programador en **Lua**. Me encanta crear sitios visualmente atractivos y funcionales con HTML y CSS, así como automatizar y desarrollar scripts en Lua para diferentes proyectos.
+Soy un **Web Developer** y **Programador Lua** enfocado en proyectos como **MTA:SA** y **Roblox**. Me apasiona crear desde sitios web sencillos hasta sistemas complejos con scripting personalizado.
 
 ---
 
-## 🛠 Tecnologías que uso
+## 🚀 Tecnologías que uso
 
-### 🌐 Desarrollo Web:
-- HTML5
-- CSS3
-- Visual Studio Code (VSCode)
-
-### 🐍 Otros lenguajes:
-- Lua (scripts, bots, automatización, juegos, etc.)
+- HTML5  
+- CSS3  
+- Visual Studio Code (VSCode)  
+- Lua (para MTA y Roblox)
 
 ---
 
-## 📂 Algunos proyectos (en camino... 🚧)
+## 🧠 Sobre mí
 
-- Portafolio personal en HTML/CSS
-- Scripts en Lua para Mta, Roblox, o automatización
-- Webs responsivas para pequeñas empresas
+Actualmente desarrollo **scripts en Lua** para servidores de MTA y juegos de Roblox. También estoy aprendiendo desarrollo web moderno con HTML y CSS para crear interfaces visuales adaptables y rápidas.
+
+---
+
+## 🖼️ Tecnologías Visuales
+
+### 💡 HTML + CSS + VSCode
+
+![Tecnologías](https://raw.githubusercontent.com/Hulkdev/hulkdev/main/assets/tech-banner.png)
+
+> *Diseño responsivo, código limpio, y desarrollo eficiente en VSCode.*
 
 ---
 
 ## 📫 Contacto
 
-- Discord: `404node`
+- **Discord:** `404Node`
 
-> Estoy disponible para colaborar, aprender y construir cosas interesantes. Si quieres hablar de código o necesitas ayuda, ¡escríbeme por Discord!
+> Si te interesa colaborar en proyectos de MTA, Roblox o necesitas ayuda con desarrollo web, ¡escríbeme!
 
 ---
 
-## 💡 Objetivo
+## 📌 Proyectos en desarrollo
 
-Seguir creciendo como developer, mejorar mis habilidades día a día, y crear soluciones reales con tecnología.
+- Sistema de login en Lua para MTA  
+- Interfaz web responsive (HTML + CSS)  
+- Scripts para Roblox Studio
 
-¡Gracias por visitar mi perfil! 🚀
+---
+
+## 🎯 Objetivo
+
+Seguir mejorando como desarrollador web y programador Lua, construir herramientas útiles y aportar a comunidades como MTA y Roblox.
+
+---
