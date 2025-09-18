@@ -1,31 +1,21 @@
-# 👋 Hola, soy Hulkdev
+## 👋 ¡Hola! Soy Hulkdev
 
-Soy un **Web Developer** y **Programador Lua** enfocado en proyectos como **MTA:SA** y **Roblox**. Me apasiona crear desde sitios web sencillos hasta sistemas complejos con scripting personalizado.
+Desarrollador web y programador en **Lua**, creando soluciones tanto para la web como para juegos y plataformas como MTA y Roblox.
 
----
+Actualmente estoy enfocado en:
 
-## 🚀 Tecnologías que uso
-
-- HTML5  
-- CSS3  
-- Visual Studio Code (VSCode)  
-- Lua (para MTA y Roblox)
+- Desarrollo de interfaces web con **HTML**, **CSS**
+- Edición y scripting en **Lua**
+- Herramientas y flujos de trabajo usando **Visual Studio Code**
 
 ---
 
-## 🧠 Sobre mí
-
-Actualmente desarrollo **scripts en Lua** para servidores de MTA y juegos de Roblox. También estoy aprendiendo desarrollo web moderno con HTML y CSS para crear interfaces visuales adaptables y rápidas.
-
----
-
-## 🖼️ Tecnologías Visuales
-
-### 💡 HTML + CSS + VSCode
-
-![Tecnologías](https://raw.githubusercontent.com/Hulkdev/hulkdev/main/assets/tech-banner.png)
-
-> *Diseño responsivo, código limpio, y desarrollo eficiente en VSCode.*
+<div style="display: inline_block"><br>
+  <img align="center" alt="Hulkdev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Hulkdev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Hulkdev-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+  <img align="center" alt="Hulkdev-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
 
 ---
 
@@ -33,20 +23,8 @@ Actualmente desarrollo **scripts en Lua** para servidores de MTA y juegos de Rob
 
 - **Discord:** `404Node`
 
-> Si te interesa colaborar en proyectos de MTA, Roblox o necesitas ayuda con desarrollo web, ¡escríbeme!
-
----
-
-## 📌 Proyectos en desarrollo
-
-- Sistema de login en Lua para MTA  
-- Interfaz web responsive (HTML + CSS)  
-- Scripts para Roblox Studio
-
 ---
 
 ## 🎯 Objetivo
 
-Seguir mejorando como desarrollador web y programador Lua, construir herramientas útiles y aportar a comunidades como MTA y Roblox.
-
----
+Seguir mejorando como desarrollador web y programador Lua, aportando a comunidades como **MTA**, **Roblox**, y creando soluciones funcionales y bien estructuradas.
